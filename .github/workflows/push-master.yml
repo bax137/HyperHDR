@@ -1,6 +1,6 @@
 name: HyperHDR CI Build
 
-on: [push]
+on: workflow_dispatch
 
 env:
     USE_CACHE: "1"
